@@ -3,7 +3,7 @@
 Holiday at The Movies
 
 # Link to application
-https://project-1-group-4.github.io/Holiday-at-the-Movies/
+https://ezinkow.github.io/Holiday-at-the-Movies/
 
 # User Story
 Everyone loves watching holiday movies! Wouldn't it be great if someone could recommend you not one, but a whole list of holiday movies based on a specific date?
