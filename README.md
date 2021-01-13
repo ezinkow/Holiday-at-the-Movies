@@ -2,6 +2,8 @@
 ## Name of application
 Holiday at The Movies
 
+![image](https://user-images.githubusercontent.com/71417500/104488906-a4014700-5594-11eb-8a15-c98549a68259.png)
+
 # Link to application
 https://ezinkow.github.io/Holiday-at-the-Movies/
 
